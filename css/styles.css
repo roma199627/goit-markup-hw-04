@@ -412,8 +412,13 @@ padding-bottom: 94px;
     .komanda-item:last-child{
       margin-left: 0px;
     }
-      .komanda-link-icon:hover, .komanda-link-icon:focus{
-        color: var(--hover-footer-color);
+      .komanda-link-icon:hover{
+        background-color: var(--hover-footer-color);
+        color: var(--fonfocus-color);
+      }
+       .komanda-link-icon:focus{
+        background-color: var(--hover-footer-color);
+        color: var(--fonfocus-color);
       }
              /* section-two */
  
