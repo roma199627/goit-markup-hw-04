@@ -413,11 +413,12 @@ padding-bottom: 94px;
       margin-left: 0px;
     }
       .komanda-link:hover{
-        
-        color: yellowgreen;
+        color: #FFFFFF;
+        background-color: #2196F3;
       }
        .komanda-link:focus{
-        color: var(--hover-footer-color);
+        background-color: #2196F3;
+        color: #FFFFFF;
       }
              /* section-two */
  
