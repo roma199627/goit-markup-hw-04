@@ -414,6 +414,7 @@ padding-bottom: 94px;
     .komanda-link:hover,
     .komanda-link:focus{
       background-color: #2196F3;
+      fill: #FFFFFF;
     }
       
              /* section-two */
