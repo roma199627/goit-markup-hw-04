@@ -398,7 +398,7 @@ padding-bottom: 94px;
      justify-content: center;
     }
     .komanda-link-icon{
-      color: #AFB1B8 ;
+      fill:  #AFB1B8 ;
     }   
     .komanda-list{
         display: flex;
@@ -412,13 +412,14 @@ padding-bottom: 94px;
     .komanda-item:last-child{
       margin-left: 0px;
     }
-      .komanda-link:hover{
-        color: #FFFFFF;
-        background-color: #2196F3;
-      }
-       .komanda-link:focus{
-        background-color: #2196F3;
-        color: #FFFFFF;
+    .komanda-link:hover,
+    .komanda-link:focus{
+      background-color: #2196F3;
+    }
+      .komanda-link:hover .komanda-link-icon 
+       .komanda-link:focus .komanda-link-icon{
+      fill: #FFFFFF;
+     
       }
              /* section-two */
  
