@@ -431,10 +431,14 @@ padding-bottom: 94px;
                 border-radius: 50%;
                 display: flex;
                 align-items: center;
-                 justify-content: center;
-                 fill: #AFB1B8;
+                justify-content: center;
+                fill: #AFB1B8;
                 }
-                  
+        .icon-link:hover,
+        .icon-link:focus{
+            background: rgba(255, 255, 255, 0.1);
+            fill: #FFFFFF;  
+        }
              /* section-two */
  
  
