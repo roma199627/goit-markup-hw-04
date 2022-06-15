@@ -402,6 +402,7 @@ padding-bottom: 94px;
     .komanda-list{
         display: flex;
      justify-content: center;
+     padding-bottom: 30px;
     }
     .komanda-item{
         width: 44px;
