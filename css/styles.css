@@ -396,7 +396,7 @@ padding-bottom: 94px;
     display: flex;
     align-items: center;
      justify-content: center;
-     fill: #FFFFFF;
+     fill: #AFB1B8;
     }
       .komanda-link-icon{
         fill: #AFB1B8; ;
@@ -416,7 +416,7 @@ padding-bottom: 94px;
     .komanda-link:hover,
     .komanda-link:focus{
       background-color: #2196F3;
-      
+      fill: #FFFFFF;
      
     }
       
