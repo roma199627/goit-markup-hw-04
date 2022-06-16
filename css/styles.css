@@ -439,6 +439,13 @@ padding-bottom: 94px;
             background: var(--hover-footer-color);
             fill: #FFFFFF;  
         }
+        .footer-list-links{
+            display: flex;
+     
+         }
+.footer-icon{
+    flex-basis:  ;
+}
              /* section-two */
  
  
