@@ -24,10 +24,12 @@ body {
     padding-right: 15px;
 
 }
- .current {
+ .header-list  .current {
 color: var(--hover-footer-color);
 }
-
+.header-two-list .current{
+    color: var(--hover-footer-color);
+}
                          /* header */
 .header-logo{
 font-family: 'Raleway';
