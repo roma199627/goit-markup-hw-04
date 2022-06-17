@@ -534,6 +534,18 @@ border-radius: 4px;
           border-radius: 4px;
           border: 1px solid #2196F3;
         }
+        .benefits-item{
+            margin-right: 30px;
+            
+        }
+        .benefits-item:last-child {
+            margin-right: 0px;
+        }
+        .footer .container{
+            display: flex;
+        }
+            
+        
              /* section-two */
  
  
