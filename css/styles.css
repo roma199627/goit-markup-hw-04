@@ -518,7 +518,7 @@ border-radius: 4px;
         height: 100%;
       background-color:#F5F4FA  ;
         
-       
+       display: flex;
         align-items: center;
          justify-content: center;
          fill: #AFB1B8;
