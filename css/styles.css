@@ -24,7 +24,7 @@ body {
     padding-right: 15px;
 
 }
-.current{
+ .current {
 color: var(--hover-footer-color);
 }
 
