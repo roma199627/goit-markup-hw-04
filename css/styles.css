@@ -162,6 +162,10 @@ background: #2196F3;
     color:var(--main-title-color) ; 
   
 }
+.header-mail{
+    margin-left: 50px;
+
+}
 .header-tel
  {
     font-weight: 500;
@@ -390,6 +394,11 @@ color:var(--main-title-color) ;
 }
 .header-two-mail{
    
+}
+.header-mail:hover,
+.header-mail:focus{
+    fill: #2196F3;
+    
 }
 .header-two-mail:hover,
 .header-two-mail:focus{
