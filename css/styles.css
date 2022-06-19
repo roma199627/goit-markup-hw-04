@@ -394,6 +394,7 @@ color:var(--main-title-color) ;
 .header-two-mail:hover,
 .header-two-mail:focus{
     fill: #2196F3;
+    
 }
 .header-two-mail:hover{
     color:var(--hover-footer-color) ; 
