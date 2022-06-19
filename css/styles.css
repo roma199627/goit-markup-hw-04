@@ -128,6 +128,7 @@ color:var(--main-title-color) ;
 }
 .list-contact:hover  {
     color:var(--hover-footer-color) ;
+   
 }
 .list-contact:focus{
     color:var(--hover-footer-color) ;
