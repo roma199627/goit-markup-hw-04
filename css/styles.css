@@ -374,10 +374,11 @@ color:#FFFFFF ;
 
  .hesder-two-link:hover {
     color: var(--hover-footer-color);
+    fill: var(--main-title-color);
  }
  .hesder-two-link :focus{
     color:var(--hover-footer-color) ;
-
+    fill: var(--main-title-color);
  }
  .header-two-mail, .header-two-tel   
 {
