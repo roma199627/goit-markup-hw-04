@@ -362,6 +362,7 @@ color:#FFFFFF ;
   margin-right: 50px;
   padding-top: 32px;
   padding-bottom: 32px;
+  fill: var(--main-title-color);
  }
  .footer-item{
      margin-bottom: 9px;
