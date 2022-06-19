@@ -401,8 +401,8 @@ line-height: 1.14;
 letter-spacing: 0.02em;
 color:var(--main-title-color) ;
 }
-.header-two-mail{
-   
+.icon{
+  margin-right: 10px; 
 }
 .header-mail:hover,
 .header-mail:focus{
