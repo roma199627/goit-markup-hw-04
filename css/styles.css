@@ -93,7 +93,16 @@ align-items: center;
     align-items: center;   
 }
 
-
+.header-mail:hover,
+.header-mail:focus{
+    fill: var(--hover-footer-color);
+    
+}
+.header-mail:hover,
+.header-mail:focus
+{
+    color:var(--hover-footer-color) ; 
+}
 .header-two-nav{
     display: flex;
     align-items: center;
@@ -405,12 +414,12 @@ color:var(--main-title-color) ;
     fill: #2196F3;
     
 }
-.header-two-mail:hover{
+.header-two-mail:hover,
+.header-two-mail:focus
+{
     color:var(--hover-footer-color) ; 
 }
-.header-two-mail:focus{
-    color:var(--hover-footer-color) ; 
-}
+
 .header-two-tel:hover{
     color:var(--hover-footer-color);
 }   
