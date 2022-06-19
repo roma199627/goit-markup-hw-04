@@ -411,7 +411,7 @@ color:var(--main-title-color) ;
 }
 .header-two-mail:hover,
 .header-two-mail:focus{
-    color: var(--hover-footer-color);
+    fill: var(--hover-footer-color);
     
 }
 .header-two-mail:hover,
