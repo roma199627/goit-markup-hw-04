@@ -173,7 +173,6 @@ background: #2196F3;
   list-style: none;
    margin-left: auto;
    display: flex;
-  
 }
 .list{
     list-style: none ;
@@ -386,10 +385,10 @@ color:#FFFFFF ;
 font-weight: 500;
 line-height: 1.14;
 letter-spacing: 0.02em;
-
+color:var(--main-title-color) ;
 }
 .header-two-mail{
-  
+    fill: var(--main-title-color);
 }
 
 .header-two-mail:hover{
