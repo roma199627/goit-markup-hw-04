@@ -126,10 +126,10 @@ line-height: 1.14;
 letter-spacing: 0.02em;
 color:var(--main-title-color) ;
 }
-.header-mail:hover  {
+.list-contact:hover  {
     color:var(--hover-footer-color) ;
 }
-.header-mail:focus{
+.list-contact:focus{
     color:var(--hover-footer-color) ;
 }
 .header-tel:hover{
