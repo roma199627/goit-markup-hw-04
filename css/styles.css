@@ -173,6 +173,7 @@ background: #2196F3;
   list-style: none;
    margin-left: auto;
    display: flex;
+   fill: var(--main-title-color);
 }
 .list{
     list-style: none ;
