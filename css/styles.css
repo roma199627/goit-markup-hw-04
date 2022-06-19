@@ -362,7 +362,7 @@ color:#FFFFFF ;
   margin-right: 50px;
   padding-top: 32px;
   padding-bottom: 32px;
-  fill: var(--main-title-color);
+  
  }
  .footer-item{
      margin-bottom: 9px;
@@ -374,11 +374,11 @@ color:#FFFFFF ;
 
  .hesder-two-link:hover {
     color: var(--hover-footer-color);
-    fill: var(--main-title-color);
+   
  }
  .hesder-two-link :focus{
     color:var(--hover-footer-color) ;
-    fill: var(--main-title-color);
+   
  }
  .header-two-mail, .header-two-tel   
 {
@@ -387,6 +387,10 @@ line-height: 1.14;
 letter-spacing: 0.02em;
 color:var(--main-title-color) ;
 }
+.header-two-mail{
+    fill: var(--main-title-color);
+}
+
 .header-two-mail:hover{
     color:var(--hover-footer-color) ; 
 }
