@@ -142,12 +142,13 @@ color:var(--main-title-color) ;
 .list-contact:focus{
     color:var(--hover-footer-color) ;
 }
-.header-tel:hover{
+.header-tel:hover,
+.header-tel:focus
+{
+    fill: var(--hover-footer-color);
     color:var(--hover-footer-color);
 }
-.header-tel:focus {
-    color:var(--hover-footer-color) ;
-}
+ 
 .header-two-logo::content{
 background: #2196F3;
     
@@ -420,12 +421,13 @@ color:var(--main-title-color) ;
     color:var(--hover-footer-color) ; 
 }
 
-.header-two-tel:hover{
+.header-two-tel:hover,
+.header-two-tel:focus
+{
+    fill: var(--hover-footer-color);
     color:var(--hover-footer-color);
 }   
-.header-two-tel:focus{
-    color:var(--hover-footer-color); 
-}
+
            /* section */
 .section{
 padding-top: 94px;
