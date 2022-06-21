@@ -145,8 +145,8 @@ color:#757575 ;
 .header-tel:hover,
 .header-tel:focus
 {
-    fill: var(--hover-footer-color);
-    color:var(--hover-footer-color);
+    fill:#2196F3;
+    color:#2196F3;
 }
  
 .header-two-logo::content{
@@ -408,25 +408,25 @@ color:#757575 ;
 }
 .header-mail:hover,
 .header-mail:focus{
-    fill: var(--hover-footer-color);
+    fill:#2196F3 ;
     
 }
 .header-two-mail:hover,
 .header-two-mail:focus{
-    fill: var(--hover-footer-color);
+    fill:#2196F3;
     
 }
 .header-two-mail:hover,
 .header-two-mail:focus
 {
-    color:var(--hover-footer-color) ; 
+    color:#2196F3 ; 
 }
 
 .header-two-tel:hover,
 .header-two-tel:focus
 {
-    fill: var(--hover-footer-color);
-    color:var(--hover-footer-color);
+    fill:#2196F3 ;
+    color:#2196F3;
 }   
 
            /* section */
