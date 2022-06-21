@@ -134,6 +134,7 @@ font-weight: 500;
 line-height: 1.14;
 letter-spacing: 0.02em;
 color:#757575 ;
+fill: #757575;
 }
 .list-contact:hover  {
     color:var(--hover-footer-color) ;
@@ -401,15 +402,13 @@ font-weight: 500;
 line-height: 1.14;
 letter-spacing: 0.02em;
 color:#757575 ;
+fill: #757575;
 }
 .icon{
   margin-right: 10px; 
- fill: #757575;
+ 
 }
-.icon:hover,
-.icon:focus{
-    fill: #2196F3;
-}
+
 .header-mail:hover,
 .header-mail:focus{
     fill:#2196F3 ;
