@@ -404,7 +404,11 @@ color:#757575 ;
 }
 .icon{
   margin-right: 10px; 
- 
+ fill: #757575;
+}
+.icon:hover,
+.icon:focus{
+    fill: #2196F3;
 }
 .header-mail:hover,
 .header-mail:focus{
