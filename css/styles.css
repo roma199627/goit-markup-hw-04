@@ -235,16 +235,18 @@ border-radius: 4px;
     flex-basis: calc(100% / 3 - 30px);
     margin-left: 30px;
     margin-bottom: 30px;
-   border: 1px solid #EEEEEE; 
   
 background:#FFFFFF;
  }
 
- .section-one-list:hover, 
- .section-one-list:focus{
+ 
+
+ .section-one-sct:hover, 
+ .section-one-sct:focus{
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
     0px 4px 4px rgba(0, 0, 0, 0.06),
      1px 4px 6px rgba(0, 0, 0, 0.16);
+     display: block;
  }
 .stn{ color: #212121;
 text-align: center;
@@ -533,6 +535,7 @@ color: #FFFFFF;
     width:170px ;
     height:92px ;
     margin-left: 30px;
+    position: absolute;
 }
 .company-link{
     width: 100%;
@@ -559,6 +562,9 @@ border-radius: 4px;
         justify-content: center;
         padding-right: 50px;
        
+    }
+    .company-logo{
+        position: absolute; 
     }
     .clients{
     font-style: normal;
@@ -740,7 +746,7 @@ margin-bottom: 50px;
 color:var(--title-color)
 }
 .one-text{
-    border: 1px solid #EEEEEE;
+   
 border-left: 1px solid #EEEEEE  ;
 border-right: 1px solid #EEEEEE ;
 border-bottom: 1px solid #EEEEEE ;
