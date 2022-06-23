@@ -565,6 +565,10 @@ border-radius: 4px;
     }
     .company-logo{
         position: absolute; 
+        left: 27.94%;
+right: 65.44%;
+top: 85.6%;
+bottom: 12.35%;
     }
     .clients{
     font-style: normal;
