@@ -24,6 +24,12 @@ body {
     padding-right: 15px;
 
 }
+.header-two-item{
+    margin-right: 50px;
+}
+.header-item{
+    margin-right: 50px;
+}
  .header-list  .current {
 color: var(--hover-footer-color);
 }
@@ -75,14 +81,16 @@ padding-bottom: 25px ;
 .heder .container{
     display: flex;
     align-items: center;
-    height: 80px;
+    
    
     
 }
 .heder{
    border: 1px solid #ECECEC; 
 }
-
+.header-two{
+    border-bottom: 1px solid #ECECEC;    
+}
 .header-nav{
 display: flex;
 align-items: center;
@@ -117,7 +125,7 @@ align-items: center;
  line-height: 1.14;
  letter-spacing: 0.02em;
  color:var(--title-color) ;
- margin-right: 50px;
+ 
  padding-top: 32px;
  padding-bottom: 32px;
  
@@ -380,7 +388,7 @@ color:#FFFFFF ;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color:var(--title-color);
-  margin-right: 50px;
+  
   padding-top: 32px;
   padding-bottom: 32px;
   
