@@ -474,6 +474,9 @@ align-items: center;
 padding-top: 94px;
 padding-bottom: 94px;
         }
+        .komanda{
+            margin-bottom: 30px;
+        }
     .komanda-link{
     width: 100%;
     height: 100%;
@@ -488,12 +491,15 @@ padding-bottom: 94px;
     .komanda-list{
         display: flex;
      justify-content: center;
-     margin-bottom: 30px;
+    
     }
     .komanda-item{
         width: 44px;
         height: 44px;
         margin-right: 10px;
+    }
+    .komanda-item:last-child{
+        margin-right: 0px ;
     }
     .komanda-item:last-child{
       margin-left: 0px;
@@ -519,6 +525,9 @@ padding-bottom: 94px;
                 align-items: center;
                 justify-content: center;
                 fill: #FFFFFF;
+                }
+                .footer-item-links:last-child{
+                    margin-right: 0px;
                 }
         .icon-link:hover,
         .icon-link:focus{
@@ -566,6 +575,9 @@ color: #FFFFFF;
     height:92px ;
     margin-left: 30px;
     
+}
+.company-item:first-child{
+    margin-left: 0px;
 }
 .company-link{
     width: 100%;
